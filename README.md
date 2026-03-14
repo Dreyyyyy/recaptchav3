@@ -1,4 +1,4 @@
-# recaptchav3
+# Recaptcha V3
 
 A minimal playground for **reCAPTCHA v3**: React (Vite) frontend and Node (Express) backend, with automatic verification on page load and server-side token verification.
 
